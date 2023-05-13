@@ -14,7 +14,7 @@ Ldg-ticcket est un bot Discord qui permet d'ajouter un sytème de ticket pour ai
 ## 🛠️ Configuration
 
 1. Exécutez `npm install` pour installer les dépendances.
-2. Modifier le fichier `config.example.json.json` en `config.json` et remplissez le.
+2.  remplissez le fichier `settings.js`.
 3. Exécutez le bot en lançant la commande `node index.js` ou en utilisant une méthode de déploiement de votre choix.
 
 ## 🤝 Contributions
