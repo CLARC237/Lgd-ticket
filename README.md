@@ -2,7 +2,7 @@
 🎫Lgd Bot-ticket
 </h1>
 
-Ldg-ticcket est un bot Discord qui permet d'ajouter un sytème de ticket pour aider tout le serveur.
+Ldg-ticket est un bot Discord qui permet d'ajouter un sytème de ticket pour aider tout le serveur.
 
 ## 🎉 Caractéristiques
 
