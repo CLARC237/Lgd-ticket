@@ -22,5 +22,5 @@ Ldg-ticket est un bot Discord qui permet d'ajouter un sytème de ticket pour aid
 Les contributions sont les bienvenues! N'hésitez pas à signaler tout bogue ou à soumettre une demande de fonctionnalité. Le développement de Ldg-captcha continue grâce à la communauté. Et pour soutenir cette communauté , rejoignez là tout simplement!! 👇
 
 ## ❤ Credits/Liens
-- [Discord](https://discord.gg/K5pxTKXCmCs)
+- [Discord](https://discord.gg/6yqSj5XJJp)
 
